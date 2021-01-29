@@ -1,0 +1,257 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: white;
+}
+
+nav {
+    background-color: #3b3d3b;
+
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    list-style-type: none;
+    font-size: 20px;
+    line-height: 50px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+
+}
+
+#logo {
+    padding-left: 30px;
+}
+
+#underNavBar {
+    text-align: center;
+    font-size: 18px;
+    color: #3b3d3b;
+    background-color: #e6eae6;
+    padding: 18px;
+    line-height: 18px;
+}
+
+#qwerty {
+    width: 50%;
+    font-size: 25px;
+}
+
+.nextToQwerty {
+    display: flex;
+    float: right;
+    font-size: 16px;
+    justify-content: center;
+    padding-right: 100px;
+}
+
+span {
+    margin: 10px;
+}
+
+.blurry {
+    color: #9c9c9c;
+}
+
+span a {
+    text-decoration: none;
+    color: black;
+}
+
+.firstPart {
+    color: #6a6a6a;
+}
+
+.secondPart {
+    text-decoration: none;
+}
+
+#mainContainer {
+    text-align: center;
+}
+
+.iphone12 {
+    font-size: 66px;
+    font-weight: bolder;
+}
+
+#fist-header {
+    text-align: center;
+    padding-top: 60px;
+}
+
+#fist-header > .blast {
+    padding-bottom: 10px;
+}
+
+#second-hearder {
+    text-align: center;
+    padding-top: 30px;
+}
+
+#second-hearder > pre {
+    font-size: 25px;
+    padding-bottom: 25px;
+}
+
+#second-hearder > pre > a {
+    text-decoration: none;
+}
+
+#fist-header > p {
+    color: #949894;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.undivContainer {
+    display: flex;
+    text-align: center;
+}
+
+.break-line {
+    background-color: white;
+    line-height: 15px;
+    width: 100%;
+}
+
+.middle-class {
+    background-color: black;
+    max-height: fit-content;
+}
+
+.middle-class {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+.iPhone12Pro {
+    padding-top: -400px;
+}
+
+.goldPro > p {
+    color: #6a6a6a;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+pre > a {
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.middle-class .goldPro pre {
+    font-size: 25px;
+    padding-top: 25px;
+}
+
+.second-middle-class {
+    background-color: white;
+}
+
+.appleWatch {
+    text-align: center;
+    padding-top: 60px;
+}
+
+.appleWatch > h1 {
+    font-size: 65px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    word-spacing: -15px;
+    line-height: 65px;
+}
+
+.appleWatch > p {
+    font-size: 35px;
+    line-height: 40px;
+
+}
+
+.appleWatch > pre {
+    padding-top: 15px;
+}
+
+.appleWatch > img {
+    padding-top: -100px;
+    border: none;
+}
+
+.infoApple {
+    background-color: #f6f6f6;
+    color: #7b7e79;
+    padding: 20px 150px 30px 150px;
+    word-spacing: 3px;
+}
+.infoApple>p{
+    padding: 5px;
+}
+
+article > hr {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.menuInfoFooter {
+    background-color: #f6f6f6;
+    color: #7b7e79;
+    width: 100%;
+}
+
+.infoApple > h1 {
+    color: black;
+    font-weight: bold;
+}
+
+.menuInfoFooter {
+    padding-left: 100px;
+    display: flex;
+    float: left;
+    font-size: 15px;
+    line-height: 25px;
+}
+
+.first {
+    margin-right: 100px;
+    padding-top: 25px;
+}
+
+.second {
+    margin-right: 100px;
+    padding-top: 25px;
+}
+
+.third {
+    margin-right: 100px;
+    padding-top: 20px;
+}
+
+.fourth {
+    margin-right: 100px;
+    padding-top: 20px;
+}
+
+.bolderBTags {
+    font-size: 18px;
+}
+
+.menuInfoFooter > a {
+    color: black;
+    font-size: 15px;
+}
+
+footer {
+    background-color: #f6f6f6;
+    padding: 10px 150px 10px 150px;
+    color: #7b7e79;
+}
